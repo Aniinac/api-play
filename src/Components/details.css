@@ -1,0 +1,139 @@
+.h-100e {
+    height: 100% !important;
+    width: 200% !important;
+}
+.itemDetailContent-root-3397 {
+    flex: 1 1 auto;
+    padding: 8px 24px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+.mt-dP {
+    margin-top: -7px!important;
+}
+.row-detailsProduct
+{
+    padding: 0px;
+    margin-right: 32px;
+    margin-left: 104px;
+}
+.jss1842 {
+    max-width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    display: flex;
+    border-radius: 5px;
+}
+
+.priceText {
+    color: #28a745;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 790!important;
+    font-size: 22px;
+
+}
+.itemDetailsTypography-h6-3377 {
+    font-size: 2.25rem;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+    color:#28a745; 
+    text-align: center;
+}
+.itemDetailsTitle-root-3366 {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 16px 24px;
+}
+.itemDetailsActions-root-3439 {
+    flex: 0 0 auto;
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    justify-content: flex-end;
+}
+.itemDetailsButton-text-3443 {
+    padding: 6px 8px;
+}
+.itemDetailsButton-root-3441 {
+    color:#28a745;
+    width: 50%;
+    border: 1px  #28a745 ;
+    margin: 5px;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 0;
+    text-transform: uppercase;
+    background-color: white;
+}
+.itemDetailsButtonBase-root-3468 {
+    color: inherit;
+    border: 0 #28a745;
+    cursor: pointer;
+    margin: 0;
+    display: inline-flex;
+    outline: 0;
+    padding: 0;
+    position: relative;
+    align-items: center;
+    user-select: none;
+    border-radius: 0;
+    vertical-align: middle;
+    -moz-appearance: none;
+    justify-content: center;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+}
+.itemDetailsButton-root-3469 {
+    color: white;
+    width: 50%;
+    margin: 5px;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 0;
+    text-transform: uppercase;
+    background-color: #28a745;
+}
+.itemDetailsButton-root-3496 {
+    color: inherit;
+    border: 0;
+    cursor: pointer;
+    margin: 0;
+    display: inline-flex;
+    outline: 0;
+    padding: 0;
+    position: relative;
+    align-items: center;
+    user-select: none;
+    border-radius: 0;
+    vertical-align: middle;
+    -moz-appearance: none;
+    justify-content: center;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+}
+.itemDetailsButton-text-3471 {
+    padding: 6px 8px;
+}
+.jss987 {
+    text-transform: none;
+}
+.jss988 {
+    text-transform: none;
+}
